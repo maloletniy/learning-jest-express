@@ -1,3 +1,6 @@
+Based on udemy course
+https://knfreightnet.udemy.com/course/nodejs-unit-testing-and-integration-testing-with-express-and-jest
+
 ##Dependencies:
 
 - eslint for code formatting
